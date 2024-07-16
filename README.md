@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ------------------------------
-![Programmers Badge](https://raw.githubusercontent.com/tomy8964/Programmers_Badge_Generator/main/result/result.svg?cache_buster=1)
+![Programmers Badge](https://raw.githubusercontent.com/OriGaOri/Programmers_Badge_Generator/main/result/result.svg?cache_buster=1)
 
 <!--
 **OriGaOri/OriGaOri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
